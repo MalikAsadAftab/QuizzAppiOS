@@ -71,4 +71,13 @@ This project structure ensures that the code is well-organized and adheres to th
 
 By following this structure, we successfully built and learned how to create a fully functional trivia quiz app, enhancing our skills in app development using Swift and the MVC pattern.
 
-For more information do not hesitate to get in touch at asad.aftab@tuwien.ac.at
+---
+
+Feel free to reach out if you have any questions or need further assistance.
+
+Happy Coding!
+
+For further queries or help, don't hesitate to get in touch either via email: [asad.aftab@tuwien.ac.at](mailto:asad.aftab@tuwien.ac.at) or through [LinkedIn: Asad Aftab](https://www.linkedin.com/in/asad-aftab-malak/).
+
+[![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:asad.aftab@tuwien.ac.at)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/asad-aftab-malak/)
